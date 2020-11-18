@@ -3,7 +3,7 @@
 ![Software Engineer](https://github.com/RutuBachhav/RutuBachhav/blob/main/pexels-photo-735911.jpeg)
 
  <img src="https://komarev.com/ghpvc/?username=RutuBachhavt&label=Views&color=blue&style=plastic" alt="RutuBachhav" />
-- 🔭 I’m currently Persuing Engineering in Cmputer science.
+- 🔭 I’m currently Persuing Engineering in Computer science.
 
 - 🌱 I’m currently learning more about Machine learning.
 
