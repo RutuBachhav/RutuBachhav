@@ -1,5 +1,5 @@
 
-##Rutuja
+
 ![Software Engineer](https://github.com/RutuBachhav/RutuBachhav/blob/main/pexels-photo-735911.jpeg)
 
 
@@ -15,3 +15,21 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutuBachhav&layout=compact)](https://github.com/anuraghazra/github-readme-stats&bg_color=191919)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<a href="http://abhishek-rout.github.io/">
+  <img align="left" alt="Abhishek's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
+<a href="https://twitter.com/Rutuja46286019">
+  <img align="left" alt="Abhishek's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/abhishek-rout-032330192/">
+  <img align="left" alt="Abhishek's Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/Abhishek_Rout">
+  <img align="left" alt="Abhishek's Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.facebook.com/abhishek.rout.1829/">
+  <img align="left" alt="Abhishek's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
