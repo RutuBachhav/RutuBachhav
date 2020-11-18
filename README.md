@@ -16,7 +16,7 @@ Skills: c++ / Java / Python / HTML / CSS/ My sql/Digital Marketing
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RutuBachhav&show_icons=true&theme=react)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishek-rout&repo=Abhishek-Rout.github.io&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RutuBachhav&show_icons=true&&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutuBachhav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
