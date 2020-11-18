@@ -22,16 +22,10 @@
 <a href="https://twitter.com/Rutuja46286019">
   <img align="left" alt="Rutuja Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Abhishek's Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/rutuja-bachhav-9499981b1/">
+  <img align="left" alt="Rutuja Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Abhishek_Rout">
-  <img align="left" alt="Abhishek's Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.facebook.com/abhishek.rout.1829/">
-  <img align="left" alt="Abhishek's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC6VvQ29rdFfriaOAdRKpICA">
-  <img align="left" alt="Abhishek's Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.facebook.com/rutuja.bachhav.102/">
+  <img align="left" alt="Rutuja Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
