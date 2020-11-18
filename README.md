@@ -1,7 +1,14 @@
 
 
 ![Software Engineer](https://github.com/RutuBachhav/RutuBachhav/blob/main/pexels-photo-735911.jpeg)
-
+- 🔭 I’m currently Persuing Engineering.
+- 🌱 I’m currently learning more about Machine learning.
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 🤔 I’m looking for help with VelocityX documentation.
+- 💬 Ask me about Flutter or any tech related stuff.
+- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/Rutuja46286019) 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 6 hours to writting everyday.
 
 
 
