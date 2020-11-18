@@ -1,6 +1,5 @@
-### Hi there 👋
+
 ### Hi there 👋, Rutuja
-#### Software Engineer
 ![Software Engineer](https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500)
 
 coder| learner| Competent...! 
