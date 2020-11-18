@@ -1,9 +1,6 @@
 
-### Hi there 👋, Rutuja
 ![Software Engineer](https://github.com/RutuBachhav/RutuBachhav/blob/main/pexels-photo-735911.jpeg)
 
-coder| learner| Competent...! 
-If at first, you don’t succeed; call it version 1.0.....😉
 
 Skills: c++ / Java / Python / HTML / CSS/ My sql/Digital Marketing 
 
