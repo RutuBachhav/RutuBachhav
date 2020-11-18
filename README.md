@@ -2,8 +2,6 @@
 ![Software Engineer](https://github.com/RutuBachhav/RutuBachhav/blob/main/pexels-photo-735911.jpeg)
 
 
-Skills: c++ / Java / Python / HTML / CSS/ My sql/Digital Marketing 
-
 
 
 
