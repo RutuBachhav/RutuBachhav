@@ -5,15 +5,13 @@
  <img src="https://komarev.com/ghpvc/?username=RutuBachhavt&label=Views&color=blue&style=plastic" alt="RutuBachhav" />
 - 🔭 I’m currently Persuing Engineering in Computer science.
 
-- 🌱 I’m currently learning more about Machine learning.
-
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 🌱 I’m currently learning more about Machine learning and data science.
 
 - 🤔 I’m looking for help with VelocityX documentation.
 
 - 💬 Ask me about Anything .
 
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/Rutuja46286019) 
+- 📫 How to reach me: (rutubachhav1@gmail.com) 
 
 - 😄 Pronouns: she
 
