@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hi there 👋, Rutuja
 #### Software Engineer
-![Software Engineer](https://images.unsplash.com/photo-1605141377115-e4dfc55bcc74?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+![Software Engineer](https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500)
 
 coder| learner| Competent...! 
 If at first, you don’t succeed; call it version 1.0.....😉
