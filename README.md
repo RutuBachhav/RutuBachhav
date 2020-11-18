@@ -1,9 +1,6 @@
 
 ### Hi there 👋, Rutuja
-![Software Engineer]
-![pexels-photo-735911](https://user-images.githubusercontent.com/64718836/92372981-5161db00-f11b-11ea-8092-1b4ef99678d3.jpeg)
-
-(https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500)
+![Software Engineer](https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500)
 
 coder| learner| Competent...! 
 If at first, you don’t succeed; call it version 1.0.....😉
