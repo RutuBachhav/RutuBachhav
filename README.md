@@ -16,6 +16,22 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RutuBachhav&layout=compact)](https://github.com/anuraghazra/github-readme-stats&bg_color=191919)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+### Connect With Me : <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
+
+<a href="https://twitter.com/Rutuja46286019">
+  <img align="left" alt="Rutuja Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Abhishek's Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/Abhishek_Rout">
+  <img align="left" alt="Abhishek's Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.facebook.com/abhishek.rout.1829/">
+  <img align="left" alt="Abhishek's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC6VvQ29rdFfriaOAdRKpICA">
+  <img align="left" alt="Abhishek's Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
