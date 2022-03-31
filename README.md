@@ -14,7 +14,7 @@
 
 - 😄 Pronouns: she/her
 
-- ⚡ Fun fact: I spend almost 6 hours to writting everyday.
+- ⚡ Fun fact: I spend almost 10 hours for sleeping.
 
 
 
